@@ -199,7 +199,9 @@ save.addEventListener("click", function() {
     window.location.href = fullQuality;
 });
 
-
+function testeBezier(){
+    
+}
 
 textarea.addEventListener("input", drawCanvas);
 window.addEventListener("load", drawCanvas);
