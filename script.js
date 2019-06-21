@@ -7,7 +7,7 @@ var code = textarea.value;
 
 var scale = 1;
 
-var np = ;
+var np = 95;
 var fps = 60;
 
 var points_curveH = [] //armazena os pontos da curva de hermite
